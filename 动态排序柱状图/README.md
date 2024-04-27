@@ -1,0 +1,4 @@
+- 安装Python环境，并配置环境变量；
+- 进入到项目目录，在项目目录下打开cmd窗口；
+- 在cmd窗口输入`python -m http.server`，此时Python的Web服务启动(cmd窗口不要关闭，否则服务将终止)；
+- 打开浏览器输入`http://localhost:8000/bar-race-country.html`，即可看到演示效果。
